@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.section {
+    display: flex;
+    padding-left: 30px;
+    background-image: url(welpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: 76%;
+
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-color {
+    color: orangered;
+}
+
+.padding {
+    padding-bottom: 5px%;
+    margin-bottom: 30px;
+    border: 5px;
+}
+
+.link {
+    text-decoration: none;
+    margin: 4px;
+    border: solid 4px;
+    border-radius: 3px;
+    background-color: red;
+
+}
+
+.img {
+    width: 50%;
+
+}
